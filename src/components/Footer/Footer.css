@@ -1,0 +1,13 @@
+.footer {
+  position: relative;
+  height: 40px;
+  background: #000000;
+  color: #ffffff;
+}
+
+.footer > .bottom {
+  padding: 10px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background:#0066cc;}

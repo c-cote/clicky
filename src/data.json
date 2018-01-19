@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/inuyasha.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/shippo.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/kagome.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/neraku.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/sango.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/kilala.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/kikiyo.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/miroku.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/sessho.png",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/assets/images/koga.png",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/jaken.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/assets/images/cry.png",
+    "clicked": false
+  }
+]
